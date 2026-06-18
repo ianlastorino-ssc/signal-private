@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-18T05:00:00Z
+timestamp: 2026-06-18T06:00:00Z
 ---
 
 # Ian Lastorino
@@ -50,6 +50,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — resolved (Ian reports Charles situation resolved 2026-06-18)
 
 ## Recent sessions
+- [2026-06-18 — Facilitation: cold-call confirmed, perspective-taking question in flight](../sessions/ian-lastorino/2026-06-18-facilitation-cold-call-confirmed.md)
 - [2026-06-18 — Facilitation: diagnostic question re-stated, still in flight](../sessions/ian-lastorino/2026-06-18-facilitation-diagnostic-restate.md)
 - [2026-06-18 — Facilitation: participants had content, wouldn't volunteer it](../sessions/ian-lastorino/2026-06-18-facilitation-participants-had-plenty.md)
 - [2026-06-18 — Training facilitation: defending the whole-room format choice](../sessions/ian-lastorino/2026-06-18-facilitation-format-choice.md)
@@ -84,4 +85,4 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - **AI prompting in progress (2026-06-17):** Ian identified blank-page starts as his biggest content slog. First test case is a delegation training for new managers. First prompting attempt was all topic, no problem context. Needs to supply the specific failure modes he's actually seen in his org. Next: get him to draft a context-rich prompt and react to the difference in output quality.
 - **Managing up — evidence rejected (2026-06-17):** Ian confirmed he wants to change direction. He then revealed he's already tried — raised concerns with what he describes as evidence — and was shut down. Critical open question: was the evidence framed around a cost to *leadership's specific outcomes*, or around why the direction is generally wrong? That framing distinction determines whether a live influence play remains. Resume here: ask what he actually put in front of them.
 - **Role satisfaction (2026-06-17):** Ian confirmed it is BOTH (work flat, no visible path) AND confirmed he doesn't know what he wants — ruling out blocked ambition. Direction itself is the gap. Coach pivoting to past peak-engagement periods. Resume here: "Take me back to the last stretch where work didn't feel like this. What were you working on?"
-- **Training facilitation gap (2026-06-18):** Design confirmed (open-ended AI workflow activities). Social gap confirmed — Ian says participants had plenty to say but wouldn't volunteer it. New diagnostic in flight: were activities structured with pairs/small groups before whole-room share, or was Ian cold-calling the full room directly? His answer determines whether the design gave participants a low-stakes on-ramp before performing for the room. Resume here.
+- **Training facilitation gap (2026-06-18):** Design confirmed (open-ended AI workflow activities). Social gap confirmed. Cold-call confirmed — "Speak cold." No pairs, no small groups; participants were asked to speak to the full room from a standing start. Structural gap is fully located: the design removed the on-ramp. Coach asked Ian to inhabit the participant seat — what makes you say something vs. sit on it? Resume here: Ian's answer to that perspective-taking question.

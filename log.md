@@ -2,6 +2,13 @@
 
 Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title>`
 
+## [2026-06-18] session | Ian Lastorino — facilitation: cold-call confirmed, perspective-taking question in flight
+
+- Created `sessions/ian-lastorino/2026-06-18-facilitation-cold-call-confirmed.md`
+- Updated `themes/ian-lastorino-facilitation-design.md`: added dated observation — cold-call confirmed ("Speak cold"); structural gap fully located; on-ramp was absent; perspective-taking question in flight; updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended new session; refreshed open thread (diagnostic resolved, resume at perspective-taking answer); updated timestamp
+- Updated `sessions/index.md`: added new session entry
+
 ## [2026-06-18] session | Ian Lastorino — facilitation: diagnostic question re-stated, still in flight
 
 - Created `sessions/ian-lastorino/2026-06-18-facilitation-diagnostic-restate.md`

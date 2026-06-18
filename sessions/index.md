@@ -19,6 +19,7 @@ Events, append-only. One concept per session, foldered by coachee.
 - [Ian Lastorino — 2026-06-17 stuck in role: opening signal](ian-lastorino/2026-06-17-stuck-in-role-opening.md)
 - [Ian Lastorino — 2026-06-17 stuck in role: both dimensions confirmed](ian-lastorino/2026-06-17-stuck-role-both.md)
 - [Ian Lastorino — 2026-06-17 stuck in role: direction unknown, pivoting to past positive experiences](ian-lastorino/2026-06-17-stuck-role-direction-unknown.md)
+- [Ian Lastorino — 2026-06-18 facilitation: cold-call confirmed, perspective-taking question in flight](ian-lastorino/2026-06-18-facilitation-cold-call-confirmed.md)
 - [Ian Lastorino — 2026-06-18 facilitation: reading participant silence](ian-lastorino/2026-06-18-facilitation-reading-silence.md)
 - [Ian Lastorino — 2026-06-18 training facilitation: defending the whole-room format choice](ian-lastorino/2026-06-18-facilitation-format-choice.md)
 - [Jordan Rivera — 2026-05-15 intake](jordan-rivera/2026-05-15-intake.md)
