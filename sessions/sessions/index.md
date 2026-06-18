@@ -1,0 +1,24 @@
+# Sessions
+
+Events, append-only. One concept per session, foldered by coachee.
+
+- [Ian Lastorino — 2026-06-17 intake](ian-lastorino/2026-06-17-intake.md)
+- [Ian Lastorino — 2026-06-17 follow-up: accountability and feedback integrity](ian-lastorino/2026-06-17-follow-up.md)
+- [Ian Lastorino — 2026-06-17 deep dive: the what vs. the why in feedback](ian-lastorino/2026-06-17-deep-dive-intent.md)
+- [Ian Lastorino — 2026-06-17 context vs. competence: the real assumption gap](ian-lastorino/2026-06-17-stakeholder-context.md)
+- [Ian Lastorino — 2026-06-17 AI adoption: blank page, delegation training, and prompting](ian-lastorino/2026-06-17-ai-adoption-opening.md)
+- [Ian Lastorino — 2026-06-17 escalation and the buy-in gap](ian-lastorino/2026-06-17-escalation-and-the-buy-in-gap.md)
+- [Ian Lastorino — 2026-06-17 managing up: opening the question](ian-lastorino/2026-06-17-managing-up-opening.md)
+- [Ian Lastorino — 2026-06-17 managing up: diagnostic rephrased](ian-lastorino/2026-06-17-managing-up-rephrased.md)
+- [Ian Lastorino — 2026-06-17 managing up: evidence brought, still rejected](ian-lastorino/2026-06-17-managing-up-evidence-rejected.md)
+- [Ian Lastorino — 2026-06-17 retention: reading withdrawal signals in a direct report](ian-lastorino/2026-06-17-retention-flight-risk.md)
+- [Ian Lastorino — 2026-06-17 retention: topic reopened, diagnostic still pending](ian-lastorino/2026-06-17-retention-reopened.md)
+- [Ian Lastorino — 2026-06-17 retention: naming what you see vs. asking if everything's okay](ian-lastorino/2026-06-17-retention-naming-what-you-see.md)
+- [Ian Lastorino — 2026-06-17 retention: worst fears named, management style on the table](ian-lastorino/2026-06-17-retention-worst-fears.md)
+- [Ian Lastorino — 2026-06-17 retention: choosing roleplay over abstract reflection](ian-lastorino/2026-06-17-retention-roleplay-request.md)
+- [Ian Lastorino — 2026-06-17 stuck in role: opening signal](ian-lastorino/2026-06-17-stuck-in-role-opening.md)
+- [Ian Lastorino — 2026-06-17 stuck in role: both dimensions confirmed](ian-lastorino/2026-06-17-stuck-role-both.md)
+- [Ian Lastorino — 2026-06-17 stuck in role: direction unknown, pivoting to past positive experiences](ian-lastorino/2026-06-17-stuck-role-direction-unknown.md)
+- [Jordan Rivera — 2026-05-15 intake](jordan-rivera/2026-05-15-intake.md)
+- [Chelsea Lastorino — 2026-06-18 intake: de-escalation and the convince trap](chelsea-lastorino/2026-06-18-intake.md)
+- [Chelsea Lastorino — 2026-06-17 discharge conversation: diagnostic deepened](chelsea-lastorino/2026-06-17-discharge-diagnostic-deepened.md)
