@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-18T03:00:00Z
+timestamp: 2026-06-18T05:00:00Z
 ---
 
 # Ian Lastorino
@@ -51,6 +51,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 
 ## Recent sessions
 - [2026-06-18 — Facilitation: participants had content, wouldn't volunteer it](../sessions/ian-lastorino/2026-06-18-facilitation-participants-had-plenty.md)
+- [2026-06-18 — Training facilitation: defending the whole-room format choice](../sessions/ian-lastorino/2026-06-18-facilitation-format-choice.md)
 - [2026-06-18 — Training facilitation: participation diagnostic, design confirmed](../sessions/ian-lastorino/2026-06-18-facilitation-participation-diagnostic.md)
 - [2026-06-18 — Facilitation: reading participant silence](../sessions/ian-lastorino/2026-06-18-facilitation-reading-silence.md)
 - [2026-06-18 — Training facilitation: the engagement gap](../sessions/ian-lastorino/2026-06-18-training-facilitation-gap.md)
