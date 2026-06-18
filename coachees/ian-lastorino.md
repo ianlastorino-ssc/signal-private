@@ -51,6 +51,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 
 ## Recent sessions
 - [2026-06-18 — Training facilitation: participation diagnostic, design confirmed](../sessions/ian-lastorino/2026-06-18-facilitation-participation-diagnostic.md)
+- [2026-06-18 — Facilitation: reading participant silence](../sessions/ian-lastorino/2026-06-18-facilitation-reading-silence.md)
 - [2026-06-18 — Training facilitation: the engagement gap](../sessions/ian-lastorino/2026-06-18-training-facilitation-gap.md)
 - [2026-06-18 — Charles resolved; pivot to training topic](../sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md)
 - [2026-06-17 — follow-up: accountability and feedback integrity](../sessions/ian-lastorino/2026-06-17-follow-up.md)

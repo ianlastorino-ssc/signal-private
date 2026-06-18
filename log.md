@@ -8,6 +8,13 @@ Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title
 - Updated `themes/ian-lastorino-facilitation-design.md`: added observation — design confirmed (open-ended activities tied to AI workflows); new diagnostic in flight (cognitive/readiness gap vs. social/safety gap); updated timestamp
 - Updated `coachees/ian-lastorino.md`: prepended new session to "Recent sessions"; replaced open thread with updated diagnostic (design ruled out, safety/readiness question now the focus); updated timestamp
 
+## [2026-06-18] session | Ian Lastorino — facilitation: reading participant silence
+
+- Created `sessions/ian-lastorino/2026-06-18-facilitation-reading-silence.md`
+- Updated `themes/ian-lastorino-facilitation-design.md`: added observation — design diagnostic answered implicitly ("how would I know, they didn't speak?"); coach reframes stilted responses as signal; new diagnostic in flight (fumbling vs. guarded); updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended new session to "Recent sessions"; refreshed training facilitation open thread to reflect diagnostic progress and new open question; updated timestamp
+- Updated `sessions/index.md`: added new session entry
+
 ## [2026-06-18] session | Ian Lastorino — training facilitation: the engagement gap
 
 - Created `sessions/ian-lastorino/2026-06-18-training-facilitation-gap.md`
