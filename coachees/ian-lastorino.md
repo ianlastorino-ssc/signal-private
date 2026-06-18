@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-18T00:00:00Z
+timestamp: 2026-06-18T01:00:00Z
 ---
 
 # Ian Lastorino
@@ -31,7 +31,9 @@ clear either/or framing — not a stack of questions at once. Abstract organizat
 metaphors (altitude, vantage point, ground-level visibility) get lost — plain concrete
 language recovers him. He'll name the confusion directly rather than deflecting, so
 feedback is available. Opens sessions with a narrow, present-moment focus — don't start
-with a broad week-in-review; come in on one thread. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-preference.md).)
+with a broad week-in-review; come in on one thread. Once he considers a situation resolved
+in real life, the coaching thread is done — don't reopen prior threads unless he raises
+them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-preference.md).)
 
 ## Goals
 - [Improve delegation and feedback with direct reports](../goals/ian-lastorino-delegation-feedback.md) — active
@@ -41,12 +43,14 @@ with a broad week-in-review; come in on one thread. (See [Coaching and session p
 - [Coaching and session preferences](../themes/ian-lastorino-coaching-preference.md) — open
 - [AI adoption and personal fluency](../themes/ian-lastorino-ai-adoption.md) — open
 - [Managing up and upward influence](../themes/ian-lastorino-managing-up.md) — open
-- [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — open
 - [Role satisfaction and career growth](../themes/ian-lastorino-role-satisfaction.md) — open
 
+## Resolved themes
+- [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — resolved (Ian reports Charles situation resolved 2026-06-18)
+
 ## Recent sessions
+- [2026-06-18 — Charles resolved; pivot to training topic](../sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md)
 - [2026-06-18 — session open: scoped focus, first exchange](../sessions/ian-lastorino/2026-06-18-session-open.md)
-- [2026-06-17 — intake](../sessions/ian-lastorino/2026-06-17-intake.md)
 - [2026-06-17 — follow-up: accountability and feedback integrity](../sessions/ian-lastorino/2026-06-17-follow-up.md)
 - [2026-06-17 — deep dive: the what vs. the why in feedback](../sessions/ian-lastorino/2026-06-17-deep-dive-intent.md)
 - [2026-06-17 — context vs. competence: the real assumption gap](../sessions/ian-lastorino/2026-06-17-stakeholder-context.md)
@@ -73,5 +77,5 @@ with a broad week-in-review; come in on one thread. (See [Coaching and session p
 - **Direct report objections (2026-06-17):** Ian's direct report gave four objections. Three are capacity signals; one ("those things don't matter") is a buy-in gap. Ian treated them uniformly as excuses. Not yet working with the distinction. The buy-in gap is the more urgent thread: why doesn't the direct report think the changes matter?
 - **AI prompting in progress (2026-06-17):** Ian identified blank-page starts as his biggest content slog. First test case is a delegation training for new managers. First prompting attempt was all topic, no problem context. Needs to supply the specific failure modes he's actually seen in his org. Next: get him to draft a context-rich prompt and react to the difference in output quality.
 - **Managing up — evidence rejected (2026-06-17):** Ian confirmed he wants to change direction. He then revealed he's already tried — raised concerns with what he describes as evidence — and was shut down. Critical open question: was the evidence framed around a cost to *leadership's specific outcomes*, or around why the direction is generally wrong? That framing distinction determines whether a live influence play remains. Resume here: ask what he actually put in front of them.
-- **Retention — Charles (2026-06-17):** Ian can now articulate a non-confrontational, observation-based opening for Charles. His worst-case fears: Charles goes silent, or the problem is Ian's management style. Coach reframed: the feared answer is the one he can act on. Ian chose to work through the "how do I stay open in the moment" question via roleplay rather than abstract analysis — coach set the scene (closed room, coach as Charles, guard up). Ian hasn't yet delivered his opening line. Resume here: Ian opens, coach responds, debrief what worked.
 - **Role satisfaction (2026-06-17):** Ian confirmed it is BOTH (work flat, no visible path) AND confirmed he doesn't know what he wants — ruling out blocked ambition. Direction itself is the gap. Coach pivoting to past peak-engagement periods. Resume here: "Take me back to the last stretch where work didn't feel like this. What were you working on?"
+- **Training topic (2026-06-18):** Ian opened the session wanting to discuss "a training that happened today." Thread not yet developed — exchange ended at the topic being named. Come in on this next turn; don't reopen Charles or any prior thread.

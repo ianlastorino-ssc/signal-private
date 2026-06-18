@@ -3,11 +3,11 @@ type: theme
 title: Reading and retaining disengaged direct reports
 description: Ian is navigating a direct report showing withdrawal behaviors; theme tracks his developing skill in diagnosing disengagement root causes before acting
 kind: growth
-status: open
+status: resolved
 coachee: "[Ian Lastorino](../coachees/ian-lastorino.md)"
 first_seen: 2026-06-17
 tags: [retention, direct-reports, diagnosis, engagement, growth]
-timestamp: 2026-06-17T22:26:00.000Z
+timestamp: 2026-06-18T01:00:00Z
 ---
 
 # Reading and retaining disengaged direct reports
@@ -32,6 +32,8 @@ The instinct — identify a flight risk, pull a retention lever — skips a crit
 
 Ian's default in challenging people situations is to move quickly to action — what do I do? This is a strength (decisive, ownership-taking) but can skip the diagnostic step that determines whether the action is the right one. This same pattern appeared in the delegation-feedback theme: reacting to non-compliance before diagnosing whether it was a skill gap, an accountability gap, or a context gap.
 
-## Open thread
+- **2026-06-18 — [Charles situation resolved; pivot to training topic](../sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md)** — Ian opened by declining to continue the Charles roleplay: "that situation is resolved." No further detail given. The full arc — from flight-risk framing through diagnosis, worst-fears work, and roleplay setup — concludes here by Ian's account. Thread closed.
 
-Ian has the opening and chose to practice it through roleplay. The roleplay is set (closed room, coach as Charles, guard up) but Ian hasn't delivered his first line yet. Resume there: Ian opens, coach-as-Charles responds, debrief what held and what didn't. The underlying question — how does he stay non-defensive if management-style feedback comes back — is still live; roleplay is the path he chose to answer it.
+## Resolution note
+
+Ian reports the Charles situation resolved as of 2026-06-18. The coaching work on this thread (diagnostic framing, naming-what-you-see approach, roleplay preparation) ran its course. Whether the actual conversation happened as planned is unknown; Ian did not debrief. Theme marked resolved.
