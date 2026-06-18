@@ -2,6 +2,12 @@
 
 Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title>`
 
+## [2026-06-18] session | Ian Lastorino — facilitation: participants had content, wouldn't volunteer it
+
+- Created `sessions/ian-lastorino/2026-06-18-facilitation-participants-had-plenty.md`
+- Updated `themes/ian-lastorino-facilitation-design.md`: added dated observation — content shortage ruled out; Ian confirmed participants had plenty; new diagnostic (pairs/small groups vs. whole-room cold call) in flight
+- Updated `coachees/ian-lastorino.md`: prepended new session to "Recent sessions"; updated open thread with current diagnostic state; updated timestamp
+
 ## [2026-06-18] session | Ian Lastorino — training facilitation: participation diagnostic, design confirmed
 
 - Created `sessions/ian-lastorino/2026-06-18-facilitation-participation-diagnostic.md`
