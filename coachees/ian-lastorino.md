@@ -50,6 +50,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — resolved (Ian reports Charles situation resolved 2026-06-18)
 
 ## Recent sessions
+- [2026-06-18 — Facilitation: diagnostic question re-stated, still in flight](../sessions/ian-lastorino/2026-06-18-facilitation-diagnostic-restate.md)
 - [2026-06-18 — Facilitation: participants had content, wouldn't volunteer it](../sessions/ian-lastorino/2026-06-18-facilitation-participants-had-plenty.md)
 - [2026-06-18 — Training facilitation: defending the whole-room format choice](../sessions/ian-lastorino/2026-06-18-facilitation-format-choice.md)
 - [2026-06-18 — Training facilitation: participation diagnostic, design confirmed](../sessions/ian-lastorino/2026-06-18-facilitation-participation-diagnostic.md)
