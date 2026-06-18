@@ -3,6 +3,7 @@ type: coachee
 title: Ian Lastorino
 description: Head of Learning & Development working on delegation and feedback effectiveness with his instructional design team.
 aliases: [ian, ian.lastorino]
+email: ian.lastorino@securityscorecard.io
 slack_id:
 claude_id: Ian Lastorino
 role: "[Learning & Development Leader](../context/roles/learning-development-leader.md)"
@@ -12,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-17T23:59:30.000Z
+timestamp: 2026-06-18T00:00:00Z
 ---
 
 # Ian Lastorino
@@ -29,19 +30,22 @@ Engages directly and thinks out loud. Responds well to a single focused question
 clear either/or framing — not a stack of questions at once. Abstract organizational
 metaphors (altitude, vantage point, ground-level visibility) get lost — plain concrete
 language recovers him. He'll name the confusion directly rather than deflecting, so
-feedback is available.
+feedback is available. Opens sessions with a narrow, present-moment focus — don't start
+with a broad week-in-review; come in on one thread. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-preference.md).)
 
 ## Goals
 - [Improve delegation and feedback with direct reports](../goals/ian-lastorino-delegation-feedback.md) — active
 
 ## Open themes
 - [Delegation and feedback landing](../themes/ian-lastorino-feedback-landing.md) — open
+- [Coaching and session preferences](../themes/ian-lastorino-coaching-preference.md) — open
 - [AI adoption and personal fluency](../themes/ian-lastorino-ai-adoption.md) — open
 - [Managing up and upward influence](../themes/ian-lastorino-managing-up.md) — open
 - [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — open
 - [Role satisfaction and career growth](../themes/ian-lastorino-role-satisfaction.md) — open
 
 ## Recent sessions
+- [2026-06-18 — session open: scoped focus, first exchange](../sessions/ian-lastorino/2026-06-18-session-open.md)
 - [2026-06-17 — intake](../sessions/ian-lastorino/2026-06-17-intake.md)
 - [2026-06-17 — follow-up: accountability and feedback integrity](../sessions/ian-lastorino/2026-06-17-follow-up.md)
 - [2026-06-17 — deep dive: the what vs. the why in feedback](../sessions/ian-lastorino/2026-06-17-deep-dive-intent.md)
