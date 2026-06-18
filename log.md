@@ -2,6 +2,12 @@
 
 Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title>`
 
+## [2026-06-18] session | Ian Lastorino — training facilitation: the engagement gap
+
+- Created `sessions/ian-lastorino/2026-06-18-training-facilitation-gap.md`
+- Created `themes/ian-lastorino-facilitation-design.md` (kind: growth) — Ian's sessions perceived as valuable but don't generate in-room engagement; design-for-participation vs. delivery-with-participation-layered-on is the open diagnostic
+- Updated `coachees/ian-lastorino.md`: added facilitation-design theme to "Open themes"; updated "Recent sessions"; replaced training-topic placeholder in open threads with substantive diagnostic thread; updated timestamp
+
 ## [2026-06-18] session | Ian Lastorino — Charles resolved; pivot to training topic
 
 - Created `sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md`

@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-18T01:00:00Z
+timestamp: 2026-06-18T02:00:00Z
 ---
 
 # Ian Lastorino
@@ -44,13 +44,14 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - [AI adoption and personal fluency](../themes/ian-lastorino-ai-adoption.md) — open
 - [Managing up and upward influence](../themes/ian-lastorino-managing-up.md) — open
 - [Role satisfaction and career growth](../themes/ian-lastorino-role-satisfaction.md) — open
+- [Facilitation design and participant engagement](../themes/ian-lastorino-facilitation-design.md) — open
 
 ## Resolved themes
 - [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — resolved (Ian reports Charles situation resolved 2026-06-18)
 
 ## Recent sessions
+- [2026-06-18 — Training facilitation: the engagement gap](../sessions/ian-lastorino/2026-06-18-training-facilitation-gap.md)
 - [2026-06-18 — Charles resolved; pivot to training topic](../sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md)
-- [2026-06-18 — session open: scoped focus, first exchange](../sessions/ian-lastorino/2026-06-18-session-open.md)
 - [2026-06-17 — follow-up: accountability and feedback integrity](../sessions/ian-lastorino/2026-06-17-follow-up.md)
 - [2026-06-17 — deep dive: the what vs. the why in feedback](../sessions/ian-lastorino/2026-06-17-deep-dive-intent.md)
 - [2026-06-17 — context vs. competence: the real assumption gap](../sessions/ian-lastorino/2026-06-17-stakeholder-context.md)
@@ -78,4 +79,4 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - **AI prompting in progress (2026-06-17):** Ian identified blank-page starts as his biggest content slog. First test case is a delegation training for new managers. First prompting attempt was all topic, no problem context. Needs to supply the specific failure modes he's actually seen in his org. Next: get him to draft a context-rich prompt and react to the difference in output quality.
 - **Managing up — evidence rejected (2026-06-17):** Ian confirmed he wants to change direction. He then revealed he's already tried — raised concerns with what he describes as evidence — and was shut down. Critical open question: was the evidence framed around a cost to *leadership's specific outcomes*, or around why the direction is generally wrong? That framing distinction determines whether a live influence play remains. Resume here: ask what he actually put in front of them.
 - **Role satisfaction (2026-06-17):** Ian confirmed it is BOTH (work flat, no visible path) AND confirmed he doesn't know what he wants — ruling out blocked ambition. Direction itself is the gap. Coach pivoting to past peak-engagement periods. Resume here: "Take me back to the last stretch where work didn't feel like this. What were you working on?"
-- **Training topic (2026-06-18):** Ian opened the session wanting to discuss "a training that happened today." Thread not yet developed — exchange ended at the topic being named. Come in on this next turn; don't reopen Charles or any prior thread.
+- **Training facilitation gap (2026-06-18):** Ian described a session that was flat in the room but was told afterwards it was valuable. Called on people; felt stilted. Key open question from coach: was the session *designed* for participation (structured activity, problem-work, peer exchange) or was it delivery-mode with participation bolted on? Ian has not yet answered — come in on this; his answer determines whether the gap is structural (format) or execution (how he calls on people).
