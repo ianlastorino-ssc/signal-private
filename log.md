@@ -92,3 +92,9 @@ Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title
 - Created `themes/ian-lastorino-avoidance-under-pressure.md` (kind: blindspot) — Ian raises high-stakes topics then deflects when coaching question gets close; pattern confirmed across two separate contexts in this session (delegation training + performance review)
 - Updated `themes/ian-lastorino-coaching-preference.md`: added observations for all Chelsea-probe exchanges and cross-linked new blindspot theme; updated timestamp
 - Updated `coachees/ian-lastorino.md`: added Blindspots section with new theme; prepended all five new sessions to Recent sessions; replaced delegation-training open thread with sharpened version; added performance-review open thread (coach question in flight); updated timestamp
+
+## [2026-06-19] session | Ian Lastorino — CoachDB roleplay attempt; coach asks what's going on today
+
+- Created `sessions/ian-lastorino/2026-06-19-coachdb-roleplay-attempt.md`
+- Updated `themes/ian-lastorino-avoidance-under-pressure.md`: added observation — "unsettled" named again as framing for sixth probe; coach pivots from boundary enforcement to direct personal question; "what's going on with you today?" is now the live question; updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended new session to Recent sessions; replaced performance-review open thread with sharpened version highlighting the live question and "unsettled" as the thread to pull; updated timestamp

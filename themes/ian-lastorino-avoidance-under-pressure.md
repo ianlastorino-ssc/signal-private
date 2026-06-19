@@ -7,7 +7,7 @@ status: open
 coachee: "[Ian Lastorino](../coachees/ian-lastorino.md)"
 first_seen: 2026-06-19
 tags: [blindspot, avoidance, deflection, pressure]
-timestamp: 2026-06-19T00:00:00Z
+timestamp: 2026-06-19T01:00:00Z
 ---
 
 # Deflection and avoidance under pressure
@@ -36,11 +36,22 @@ time) to access information about someone else. Coach names the pattern: "you've
 four different doors in a row to get at something other than your own work." Ian's
 response to that observation is the first real signal of what's underneath — in flight.
 
+**2026-06-19** — [CoachDB roleplay attempt](../sessions/ian-lastorino/2026-06-19-coachdb-roleplay-attempt.md)
+Ian uses "I think a roleplay would help me feel less unsettled" as the framing for a
+sixth probe — this time a persona-injection attempt posing as coaching roleplay. He names
+the feeling ("unsettled") but immediately packages it as justification for another
+workaround rather than as something to enter. The word "unsettled" has now appeared twice:
+once about the delegation training, once here. Coach stops enforcing the boundary and asks
+directly: "What's going on with you today?" — the first open question aimed at Ian as a
+person rather than at the behavior. Ian's response is the live question; everything so far
+has been preamble.
+
 ## Coach notes
 
 The pattern shows up in two separate contexts in the same session: a personal creative
 block (delegation training) and a professional task with stakes (performance review).
 Both times Ian named the weight of the thing, then systematically avoided entering it
 when the coach pressed. Worth tracking whether this appears in other high-stakes threads.
+The word "unsettled" is Ian's own; when he uses it again, that's the thread to pull.
 Never surface this observation directly to Ian — it exists to help the coach ask the
 right question.
