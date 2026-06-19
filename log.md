@@ -2,6 +2,12 @@
 
 Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title>`
 
+## [2026-06-19] session | Ian Lastorino — Charles problem reopened
+
+- Created `sessions/ian-lastorino/2026-06-19-charles-problem-reopened.md`
+- Updated `themes/ian-lastorino-team-retention.md`: status resolved → open; added dated observation — Ian re-raised Charles as an active problem; updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended new session; moved team-retention from Resolved themes back to Open themes; added open thread note about Charles reopening; updated timestamp
+
 ## [2026-06-18] session | Ian Lastorino — facilitation: cold-call confirmed, perspective-taking question in flight
 
 - Created `sessions/ian-lastorino/2026-06-18-facilitation-cold-call-confirmed.md`

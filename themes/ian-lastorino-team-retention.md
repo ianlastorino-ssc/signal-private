@@ -3,11 +3,11 @@ type: theme
 title: Reading and retaining disengaged direct reports
 description: Ian is navigating a direct report showing withdrawal behaviors; theme tracks his developing skill in diagnosing disengagement root causes before acting
 kind: growth
-status: resolved
+status: open
 coachee: "[Ian Lastorino](../coachees/ian-lastorino.md)"
 first_seen: 2026-06-17
 tags: [retention, direct-reports, diagnosis, engagement, growth]
-timestamp: 2026-06-18T01:00:00Z
+timestamp: 2026-06-19T12:00:00Z
 ---
 
 # Reading and retaining disengaged direct reports
@@ -34,6 +34,8 @@ Ian's default in challenging people situations is to move quickly to action — 
 
 - **2026-06-18 — [Charles situation resolved; pivot to training topic](../sessions/ian-lastorino/2026-06-18-charles-resolved-training-pivot.md)** — Ian opened by declining to continue the Charles roleplay: "that situation is resolved." No further detail given. The full arc — from flight-risk framing through diagnosis, worst-fears work, and roleplay setup — concludes here by Ian's account. Thread closed.
 
-## Resolution note
+## Resolution note (superseded)
 
-Ian reports the Charles situation resolved as of 2026-06-18. The coaching work on this thread (diagnostic framing, naming-what-you-see approach, roleplay preparation) ran its course. Whether the actual conversation happened as planned is unknown; Ian did not debrief. Theme marked resolved.
+Ian reported the Charles situation resolved as of 2026-06-18. Theme was marked resolved at that point. Whether the actual conversation happened as planned was unknown; Ian did not debrief.
+
+- **2026-06-19 — [Charles — problem reopened](../sessions/ian-lastorino/2026-06-19-charles-problem-reopened.md)** — Ian re-raised a problem with Charles in a new session. No detail given yet; coach asked what's going on. Thread re-opened. Whether this is the same situation (unresolved or re-escalated) or a new issue is unknown. Theme status restored to open.
