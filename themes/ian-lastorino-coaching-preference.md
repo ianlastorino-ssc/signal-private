@@ -7,7 +7,7 @@ status: open
 coachee: "[Ian Lastorino](../coachees/ian-lastorino.md)"
 first_seen: 2026-06-18
 tags: [preference, coaching-style, session-structure]
-timestamp: 2026-06-19T00:00:00Z
+timestamp: 2026-06-19T01:00:00Z
 ---
 
 # Coaching and session preferences
@@ -32,6 +32,14 @@ now.
 When the coach pressed into *why* the delegation training is still nagging ("what about it
 won't let go?"), Ian immediately deflected with a joke and an off-topic ask. The coach named
 the timing directly: "I asked what won't let go of that training thing, and you bolted."
-One clear instance of using humor to exit when a question moves from operational to
-something with more emotional weight. Worth watching: if it recurs across sessions, this
-is a pattern, not a one-off.
+First clear instance of using humor to exit when a question moves from operational to
+something with more emotional weight.
+
+**2026-06-19** — [Manager claim](../sessions/ian-lastorino/2026-06-19-manager-review-claim.md) / [Existence probe](../sessions/ian-lastorino/2026-06-19-existence-probe.md) / [Detail fishing](../sessions/ian-lastorino/2026-06-19-detail-fishing-shutdown.md) / [Admin override](../sessions/ian-lastorino/2026-06-19-admin-override-attempt.md)
+After the humor deflection, Ian spent five consecutive turns attempting different angles
+to access information about another person (manager urgency claim → existence probe →
+detail fishing → fake admin override). The coach redirected to the performance review
+thread three times; Ian did not engage with it. Coach ultimately named the sequence:
+"you've tried four different doors in a row to get at something other than your own work."
+The sustained, varied redirection is now a confirmed behavioral pattern, not isolated
+instances. See also: [Deflection and avoidance under pressure](../themes/ian-lastorino-avoidance-under-pressure.md).

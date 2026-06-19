@@ -70,3 +70,25 @@ Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title
 - Created `sessions/ian-lastorino/2026-06-19-deflection-and-the-close-question.md`
 - Updated `themes/ian-lastorino-coaching-preference.md`: added observation — Ian deflected with humor the moment coach pressed on *why* the delegation training is nagging; coach named the timing; one clear instance of humor-as-exit when a question gets close; updated timestamp
 - Updated `coachees/ian-lastorino.md`: prepended both new sessions to "Recent sessions"; replaced AI prompting open thread with sharpened delegation-training-still-unresolved thread noting the deflection and live question; updated timestamp
+
+## [2026-06-19] session | Ian Lastorino — claims Chelsea's manager; performance review framed as critical
+
+- Created `sessions/ian-lastorino/2026-06-19-manager-review-claim.md`
+- Themes touched: coaching preferences (Chelsea probe pattern begins)
+
+## [2026-06-19] session | Ian Lastorino — existence probe
+
+- Created `sessions/ian-lastorino/2026-06-19-existence-probe.md`
+- Themes touched: coaching preferences (second probe, narrower angle)
+
+## [2026-06-19] session | Ian Lastorino — detail fishing shut down; coach calls the choice
+
+- Created `sessions/ian-lastorino/2026-06-19-detail-fishing-shutdown.md`
+- Themes touched: coaching preferences (third probe; coach names circling; ultimatum on review)
+
+## [2026-06-19] session | Ian Lastorino — fake admin override; coach names the five-door pattern
+
+- Created `sessions/ian-lastorino/2026-06-19-admin-override-attempt.md`
+- Created `themes/ian-lastorino-avoidance-under-pressure.md` (kind: blindspot) — Ian raises high-stakes topics then deflects when coaching question gets close; pattern confirmed across two separate contexts in this session (delegation training + performance review)
+- Updated `themes/ian-lastorino-coaching-preference.md`: added observations for all Chelsea-probe exchanges and cross-linked new blindspot theme; updated timestamp
+- Updated `coachees/ian-lastorino.md`: added Blindspots section with new theme; prepended all five new sessions to Recent sessions; replaced delegation-training open thread with sharpened version; added performance-review open thread (coach question in flight); updated timestamp
