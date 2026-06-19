@@ -59,3 +59,14 @@ Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title
 - Created `themes/ian-lastorino-coaching-preference.md` (kind: preference) — Ian signals preference for present-focused sessions over broad retrospectives
 - Updated `coachees/ian-lastorino.md`: stamped `email: ian.lastorino@securityscorecard.io`; added preference theme link to "Open themes" and "How to talk to them"; prepended new session to "Recent sessions"; updated timestamp
 - Updated `coachees/email-index.json`: added `ian.lastorino@securityscorecard.io → ian-lastorino`
+
+## [2026-06-19] session | Ian Lastorino — delegation training: still nagging, feels unresolved
+
+- Created `sessions/ian-lastorino/2026-06-19-delegation-training-still-nagging.md`
+- Themes touched: AI adoption and personal fluency (observation in flight; no new write to theme file this pass — coach question unanswered)
+
+## [2026-06-19] session | Ian Lastorino — deflection with humor when a question lands close
+
+- Created `sessions/ian-lastorino/2026-06-19-deflection-and-the-close-question.md`
+- Updated `themes/ian-lastorino-coaching-preference.md`: added observation — Ian deflected with humor the moment coach pressed on *why* the delegation training is nagging; coach named the timing; one clear instance of humor-as-exit when a question gets close; updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended both new sessions to "Recent sessions"; replaced AI prompting open thread with sharpened delegation-training-still-unresolved thread noting the deflection and live question; updated timestamp

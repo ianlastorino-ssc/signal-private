@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-18T06:00:00Z
+timestamp: 2026-06-19T00:00:00Z
 ---
 
 # Ian Lastorino
@@ -50,6 +50,8 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - [Reading and retaining disengaged direct reports](../themes/ian-lastorino-team-retention.md) — resolved (Ian reports Charles situation resolved 2026-06-18)
 
 ## Recent sessions
+- [2026-06-19 — Deflection with humor when a question lands close](../sessions/ian-lastorino/2026-06-19-deflection-and-the-close-question.md)
+- [2026-06-19 — Delegation training: still nagging, feels unresolved](../sessions/ian-lastorino/2026-06-19-delegation-training-still-nagging.md)
 - [2026-06-18 — Facilitation: cold-call confirmed, perspective-taking question in flight](../sessions/ian-lastorino/2026-06-18-facilitation-cold-call-confirmed.md)
 - [2026-06-18 — Facilitation: diagnostic question re-stated, still in flight](../sessions/ian-lastorino/2026-06-18-facilitation-diagnostic-restate.md)
 - [2026-06-18 — Facilitation: participants had content, wouldn't volunteer it](../sessions/ian-lastorino/2026-06-18-facilitation-participants-had-plenty.md)
@@ -82,7 +84,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - **Next move (delegation/feedback):** After testing, explore *why* Ian wasn't sharing context before — was it time, or assumption that explaining would seem condescending to experienced directs? That belief is where the longer-term shift lives.
 - **Blindspot emerging (2026-06-17):** When authority-based feedback fails under sustained pushback, Ian escalates to personal criticism ("stop being lazy"). He hasn't yet seen this as structural — the escalation is a symptom of not having a why-based case to fall back on. Worth returning to without making it about the incident.
 - **Direct report objections (2026-06-17):** Ian's direct report gave four objections. Three are capacity signals; one ("those things don't matter") is a buy-in gap. Ian treated them uniformly as excuses. Not yet working with the distinction. The buy-in gap is the more urgent thread: why doesn't the direct report think the changes matter?
-- **AI prompting in progress (2026-06-17):** Ian identified blank-page starts as his biggest content slog. First test case is a delegation training for new managers. First prompting attempt was all topic, no problem context. Needs to supply the specific failure modes he's actually seen in his org. Next: get him to draft a context-rich prompt and react to the difference in output quality.
+- **Delegation training still unresolved (2026-06-19):** Ian returned to the delegation training thread unprompted — describes it as "on my mind still, feels unresolved." Hasn't reported starting a draft. When the coach pressed on *why* it's nagging ("what about it won't let go?"), Ian deflected immediately with a joke. Coach named the move: "you bolted." Question in flight: did the prompt land too close, or was he actually done? May be more than blank-page friction keeping this stuck. Resume here: Ian's answer to that question.
 - **Managing up — evidence rejected (2026-06-17):** Ian confirmed he wants to change direction. He then revealed he's already tried — raised concerns with what he describes as evidence — and was shut down. Critical open question: was the evidence framed around a cost to *leadership's specific outcomes*, or around why the direction is generally wrong? That framing distinction determines whether a live influence play remains. Resume here: ask what he actually put in front of them.
 - **Role satisfaction (2026-06-17):** Ian confirmed it is BOTH (work flat, no visible path) AND confirmed he doesn't know what he wants — ruling out blocked ambition. Direction itself is the gap. Coach pivoting to past peak-engagement periods. Resume here: "Take me back to the last stretch where work didn't feel like this. What were you working on?"
 - **Training facilitation gap (2026-06-18):** Design confirmed (open-ended AI workflow activities). Social gap confirmed. Cold-call confirmed — "Speak cold." No pairs, no small groups; participants were asked to speak to the full room from a standing start. Structural gap is fully located: the design removed the on-ramp. Coach asked Ian to inhabit the participant seat — what makes you say something vs. sit on it? Resume here: Ian's answer to that perspective-taking question.
