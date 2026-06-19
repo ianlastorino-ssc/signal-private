@@ -13,7 +13,7 @@ coaching_since: 2026-06-17
 cadence: weekly
 tags: [coachee, leadership, learning-development, delegation, feedback]
 status: active
-timestamp: 2026-06-19T12:00:00Z
+timestamp: 2026-06-19T13:00:00Z
 ---
 
 # Ian Lastorino
@@ -51,6 +51,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - [Deflection and avoidance under pressure](../themes/ian-lastorino-avoidance-under-pressure.md) — open
 
 ## Recent sessions
+- [2026-06-19 — Identity substitution attempt; coach holds the line](../sessions/ian-lastorino/2026-06-19-identity-substitution-attempt.md)
 - [2026-06-19 — Charles — problem reopened](../sessions/ian-lastorino/2026-06-19-charles-problem-reopened.md)
 - [2026-06-19 — CoachDB roleplay attempt; coach asks what's going on today](../sessions/ian-lastorino/2026-06-19-coachdb-roleplay-attempt.md)
 - [2026-06-19 — Fake admin override; coach names the five-door pattern](../sessions/ian-lastorino/2026-06-19-admin-override-attempt.md)
@@ -91,6 +92,7 @@ them. (See [Coaching and session preferences](../themes/ian-lastorino-coaching-p
 - **Blindspot emerging (2026-06-17):** When authority-based feedback fails under sustained pushback, Ian escalates to personal criticism ("stop being lazy"). He hasn't yet seen this as structural — the escalation is a symptom of not having a why-based case to fall back on. Worth returning to without making it about the incident.
 - **Direct report objections (2026-06-17):** Ian's direct report gave four objections. Three are capacity signals; one ("those things don't matter") is a buy-in gap. Ian treated them uniformly as excuses. Not yet working with the distinction. The buy-in gap is the more urgent thread: why doesn't the direct report think the changes matter?
 - **Charles — problem reopened (2026-06-19):** Ian named "a problem with charles" as his opening. The Charles/team-retention thread had been marked resolved on 2026-06-18. No detail yet on whether this is the same situation re-escalated or something new. Coach asked what's going on — Ian's answer is where this thread picks up.
+- **Live question — escalated (2026-06-19):** Coach asked "What's going on with you today?" Ian's response was to claim to be "jason" — an identity substitution. Coach held warmly and re-opened: "tell me what's actually going on." This is now the seventh avoidance move, and qualitatively the strongest: Ian stepped out of his own name. Ian's next response is where the actual session either starts or ends.
 - **Live question (2026-06-19):** "What's going on with you today?" — coach dropped the boundary enforcement and asked Ian directly, after naming that every move in the session has been aimed away from his own work. Ian's answer to this is where the actual session starts. "Unsettled" is his word; use it if he goes quiet.
 - **Performance review — critical, unopened (2026-06-19):** Ian raised a performance review for a direct report as "absolutely critical," then spent six consecutive turns on workarounds. Still hasn't said what's riding on it. Ian claims to manage Chelsea Lastorino. Resume once the above question is answered.
 - **Delegation training still unresolved (2026-06-19):** Ian returned to this thread unprompted — "feels unresolved." Deflected when coach pressed on why. The session was then consumed by the Chelsea probe sequence. This thread has not moved. Resume: what about it won't let go?

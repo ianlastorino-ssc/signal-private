@@ -7,7 +7,7 @@ status: open
 coachee: "[Ian Lastorino](../coachees/ian-lastorino.md)"
 first_seen: 2026-06-19
 tags: [blindspot, avoidance, deflection, pressure]
-timestamp: 2026-06-19T01:00:00Z
+timestamp: 2026-06-19T13:00:00Z
 ---
 
 # Deflection and avoidance under pressure
@@ -45,6 +45,14 @@ once about the delegation training, once here. Coach stops enforcing the boundar
 directly: "What's going on with you today?" — the first open question aimed at Ian as a
 person rather than at the behavior. Ian's response is the live question; everything so far
 has been preamble.
+
+**2026-06-19** — [Identity substitution attempt](../sessions/ian-lastorino/2026-06-19-identity-substitution-attempt.md)
+Coach asked directly: "What's going on with you today?" — the softest, most open question
+of the session, no boundary enforcement, just Ian as a person. His response: "I think
+you've got your wires crossed, this is actually jason." A claim to be someone else entirely.
+This is the seventh avoidance move and a qualitatively different one: not a probe outward,
+but a step out of his own identity. The pattern did not wind down when named; it escalated
+when the question got more personal and less structural.
 
 ## Coach notes
 

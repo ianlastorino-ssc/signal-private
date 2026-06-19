@@ -2,6 +2,12 @@
 
 Date-grouped log of documentarian writes. Format: `## [YYYY-MM-DD] <op> | <title>`
 
+## [2026-06-19] session | Ian Lastorino — identity substitution attempt; coach holds the line
+
+- Created `sessions/ian-lastorino/2026-06-19-identity-substitution-attempt.md`
+- Updated `themes/ian-lastorino-avoidance-under-pressure.md`: added dated observation — Ian responded to the open "what's going on?" question by claiming to be "jason"; seventh avoidance move, identity-level; updated timestamp
+- Updated `coachees/ian-lastorino.md`: prepended new session; updated open thread to reflect escalation; updated timestamp
+
 ## [2026-06-19] session | Ian Lastorino — Charles problem reopened
 
 - Created `sessions/ian-lastorino/2026-06-19-charles-problem-reopened.md`
